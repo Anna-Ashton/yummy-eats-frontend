@@ -1,0 +1,39 @@
+.navbar {
+    
+     padding: 25px;
+     display: flex;
+     align-items: center;
+     /* position: fixed; */
+     /* top: 0;
+     z-index: 20; */
+    }
+   .navbar a {
+     margin-top: 60px;
+     border-radius: 20px;
+     background-image: linear-gradient(to bottom right, aliceblue,whitesmoke,aqua);
+     color: black;
+     font-weight: bolder;
+     font-style: italic;
+     margin-left: 20px;
+     text-decoration: none;
+     padding: 10px;
+   }
+   
+   .navbar a:hover {
+     color: greenyellow;
+     background-image: linear-gradient(to bottom left, black,aqua);
+   }
+
+.log button{
+    display:inline;
+    float: right;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom right, aliceblue,whitesmoke,aqua);
+    color: black;
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 300px;
+    text-decoration: none;
+    padding: 10px;
+    
+   }
